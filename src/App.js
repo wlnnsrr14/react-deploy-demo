@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Halo Vercel! Saya sudah deploy dengan CI/CD! Wulansari | 2303040075
+          Halo netfily! Aplikasi React saya sudah ter-deploy otomatis! Wulansari | 2303040075
         </p>
         <a
           className="App-link"
